@@ -83,7 +83,6 @@ function Experience() {
                 src="/arrow.png"
                 alt="Arrow icon"
                 className="icon arrow"
-                onclick="location.href='./#projects'"
             />
         </section>
     </>);

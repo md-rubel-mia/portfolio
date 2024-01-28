@@ -83,7 +83,6 @@ function Projects() {
                 src="/arrow.png"
                 alt="Arrow icon"
                 className="icon arrow"
-                onClick="location.href='./#contact'"
             />
         </section>
     </>);

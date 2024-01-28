@@ -43,7 +43,6 @@ function About() {
                 src="/arrow.png"
                 alt="Arrow icon"
                 className="icon arrow"
-                onclick="location.href='./#experience'"
             />
         </section>
     </>);
